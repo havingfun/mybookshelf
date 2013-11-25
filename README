@@ -1,0 +1,19 @@
+This project was created as an entry for overnight software contest under AASF, ABV-IIITM Gwalior.
+An Online Book Manager, A Scheduler and a Library Management System...
+How to run the files -
+
+1. Extract the folder and copy it into the www folder of WAMP server or likewise for another local server.
+2. Import the Database bookshelf.sql.
+3. Add a new user by registering or for testing purpose we have -
+
+              Username - love
+              Password - rajesh
+4. We have also prepared the admin portal
+
+            localhost/Team_Websharkz/admin
+
+            Username - ADMIN
+             Password - MYSHELF
+
+Check out its features...
+
